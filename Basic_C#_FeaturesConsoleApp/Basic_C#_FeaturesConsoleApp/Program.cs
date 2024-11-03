@@ -24,7 +24,8 @@ namespace Basic_C__FeaturesConsoleApp
             Console.WriteLine($"  Программирование: {programmingScore}");
             Console.WriteLine($"  Математика: {mathScore}");
             Console.WriteLine($"  Физика: {physicsScore}");
-            
+            Console.ReadKey();
+
             float totalScore = programmingScore + mathScore + physicsScore;
             
             float averageScore = totalScore / 3;
