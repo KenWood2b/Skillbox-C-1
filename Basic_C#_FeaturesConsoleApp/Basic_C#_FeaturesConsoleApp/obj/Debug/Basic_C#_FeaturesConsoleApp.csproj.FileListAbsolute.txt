@@ -1,0 +1,7 @@
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\obj\Debug\Basic_C#_FeaturesConsoleApp.csproj.AssemblyReference.cache
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\obj\Debug\Basic_C#_FeaturesConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\bin\Debug\Basic_C#_FeaturesConsoleApp.exe.config
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\bin\Debug\Basic_C#_FeaturesConsoleApp.exe
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\bin\Debug\Basic_C#_FeaturesConsoleApp.pdb
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\obj\Debug\Basic_C#_FeaturesConsoleApp.exe
+D:\C#\Basic_C#_FeaturesConsoleApp\Basic_C#_FeaturesConsoleApp\obj\Debug\Basic_C#_FeaturesConsoleApp.pdb

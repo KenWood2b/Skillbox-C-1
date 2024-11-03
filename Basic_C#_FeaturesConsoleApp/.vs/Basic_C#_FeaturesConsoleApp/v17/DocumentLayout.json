@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Basic_C#_FeaturesConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60159135-48E6-4AB1-AC4A-583916B017EA}|Basic_C#_FeaturesConsoleApp\\Basic_C#_FeaturesConsoleApp.csproj|d:\\c#\\basic_c#_featuresconsoleapp\\basic_c#_featuresconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60159135-48E6-4AB1-AC4A-583916B017EA}|Basic_C#_FeaturesConsoleApp\\Basic_C#_FeaturesConsoleApp.csproj|solutionrelative:basic_c#_featuresconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Basic_C#_FeaturesConsoleApp\\Basic_C#_FeaturesConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_C#_FeaturesConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\Basic_C#_FeaturesConsoleApp\\Basic_C#_FeaturesConsoleApp\\Program.cs",
+              "RelativeToolTip": "Basic_C#_FeaturesConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:27:12.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
